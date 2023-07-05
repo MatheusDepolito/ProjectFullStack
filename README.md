@@ -12,6 +12,8 @@ No frontend, utilizamos React para criar uma interface de usuário responsiva e 
 
 A aplicação frontend permite aos usuários cadastrar novos entregadores, visualizar a lista de entregadores cadastrados e realizar operações de edição e exclusão. A interface é intuitiva e amigável, seguindo boas práticas de design de interface do usuário para proporcionar uma experiência agradável ao usuário.
 
+# Resumo
+
 Em resumo, este projeto Full Stack foi desenvolvido para um trabalho da faculdade, visando criar um aplicativo para cadastro e gerenciamento de entregadores. O projeto combina um backend desenvolvido com Node.js, seguindo boas práticas de orientação a objetos e SOLID, com um frontend desenvolvido com React, aplicando componentização e Single-Page Application.
 
 
